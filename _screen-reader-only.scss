@@ -1,10 +1,11 @@
 // ==========================================================================
-// SCREEN READER ONLY
+// Screen Reader Only Utility
 // ==========================================================================
+
 /*doc
 ---
 title: Screen Reader only
-name: 14_sr_only
+name: sr_only
 category: utilities
 ---
 
@@ -16,9 +17,7 @@ Helper class to make text available to screen reader users but not display visua
 <p>Lorem ipsum dolor sit amet, <a href="#">consectetur adipiscing elit</a>. Vivamus pharetra varius ullamcorper. Aliquam et nunc posuere, facilisis orci ac, luctus arcu.<p>
 
 ```
-
 */
-
 
 .u-screen-reader-only {
     position: absolute;
