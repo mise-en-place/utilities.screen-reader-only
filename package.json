@@ -1,0 +1,22 @@
+{
+  "name": "mep-utilities.screen-reader-only",
+  "version": "1.0.0",
+  "description": "Screen Reader Only Utility",
+  "main": "stylesheets/_utility-screen-reader-only.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "name": "utility-screen-reader-only",
+    "exports": "eyeglass-exports.js"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/utilities.screen-reader-only.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
