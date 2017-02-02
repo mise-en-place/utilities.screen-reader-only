@@ -2,6 +2,17 @@
 // Screen Reader Mixin
 // ==========================================================================
 
+////
+/// @group Mixins
+////
+
+/// Hides text, can be used for screen readers, icons, logos etc
+///
+/// @example scss - Basic Usage Sass
+///    .hide-my-thingie {
+///        @include screen-reader-only();
+///    }
+
 @mixin screen-reader-only() {
     position: absolute;
     width: 1px;
