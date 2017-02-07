@@ -18,5 +18,8 @@
     "url": "https://github.com/mise-en-place/utilities.screen-reader-only.git"
   },
   "author": "Kind",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mep-tools.screen-reader-only": "github:mise-en-place/tools.screen-reader-only"
+  }
 }
