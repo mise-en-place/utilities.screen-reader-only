@@ -1,15 +1,9 @@
 {
   "name": "mep-utilities.screen-reader-only",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Screen Reader Only Utility",
   "main": "stylesheets/_utility-screen-reader-only.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "utility-screen-reader-only",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
